@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				177,
+				301
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "firstDeath"
+		},
+		{
+			"offsets": [
+				177,
+				301
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deathLoop"
+		},
+		{
+			"offsets": [
+				177,
+				301
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deathConfirm"
+		},
+		{
+			"offsets": [
+				177,
+				301
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "deathLoop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "LAdeath",
+	"position": [
+		-70,
+		340
+	],
+	"healthicon": "blank",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		149
+	],
+	"camera_position": [
+		640,
+		-410
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

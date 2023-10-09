@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:46093ec65e99d75aa59a01f2548c347e:fc4e7d2291afc6efa4f78c1264a838b6:52649b06221abce3a7c711efa4c3bcf9$ -->
+<TextureAtlas imagePath="ElevatorBGSpecial.png" width="1870" height="1786">
+    <SubTexture name="ElevatorBG3" x="1" y="1" width="1868" height="891" frameX="-72" frameY="-197" frameWidth="2020" frameHeight="1088"/>
+    <SubTexture name="ElevatorBG4" x="1" y="894" width="1868" height="891" frameX="-72" frameY="-197" frameWidth="2020" frameHeight="1088"/>
+</TextureAtlas>

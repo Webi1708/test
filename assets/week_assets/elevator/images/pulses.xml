@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:4a7c78397ef79663817de9a1823f1710:2085c4a110a8a46dd99ee5f5cc53c193:6f3e8b8ed96bfd72b7da549756b14cbd$ -->
+<TextureAtlas imagePath="pulses.png" width="6410" height="2888">
+    <SubTexture name="ElectricPulse/ElectricPulse0001" x="1" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0002" x="1" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0003" x="1283" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0004" x="1283" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0005" x="2565" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0006" x="2565" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0007" x="3847" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0008" x="3847" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0009" x="5129" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0010" x="5129" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0011" x="5129" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0012" x="5129" y="1" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0013" x="1" y="723" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0014" x="1" y="723" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0015" x="1" y="723" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0016" x="1" y="723" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0017" x="1" y="723" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0018" x="1" y="723" width="1280" height="720"/>
+    <SubTexture name="ElectricPulse/ElectricPulse0019" x="1" y="723" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0001" x="1283" y="723" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0002" x="2565" y="723" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0003" x="3847" y="723" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0004" x="5129" y="723" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0005" x="1" y="1445" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0006" x="1" y="1445" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0007" x="1283" y="1445" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0008" x="1283" y="1445" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0009" x="2565" y="1445" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0010" x="2565" y="1445" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0011" x="3847" y="1445" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0012" x="5129" y="1445" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0013" x="1" y="2167" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0014" x="1283" y="2167" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0015" x="2565" y="2167" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0016" x="3847" y="2167" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0017" x="3847" y="2167" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0018" x="3847" y="2167" width="1280" height="720"/>
+    <SubTexture name="LovePulse/LovePulse0019" x="5129" y="2167" width="1280" height="720"/>
+</TextureAtlas>

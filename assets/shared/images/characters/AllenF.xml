@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:b9017d8f02938cd7bdcd066435b2aa90:b84775d939bb83b8d503f4b8adb33ec0:51ea21d002bfcfa7ff56183784cd6a1f$ -->
+<TextureAtlas imagePath="AllenF.png" width="3324" height="1729">
+    <SubTexture name="AllenF/Allen30001" x="2236" y="864" width="1045" height="859" frameX="-318" frameY="-85" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30002" x="2236" y="864" width="1045" height="859" frameX="-318" frameY="-85" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30003" x="2300" y="1" width="1023" height="855" frameX="-327" frameY="-87" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30004" x="2300" y="1" width="1023" height="855" frameX="-327" frameY="-87" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30005" x="1130" y="864" width="1104" height="861" frameX="-307" frameY="-83" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30006" x="1130" y="864" width="1104" height="861" frameX="-307" frameY="-83" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30007" x="1165" y="1" width="1133" height="861" frameX="-291" frameY="-87" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30008" x="1165" y="1" width="1133" height="861" frameX="-291" frameY="-87" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30009" x="1165" y="1" width="1133" height="861" frameX="-291" frameY="-87" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30010" x="1" y="1" width="1162" height="860" frameX="-266" frameY="-100" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30011" x="1" y="1" width="1162" height="860" frameX="-266" frameY="-100" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30012" x="1" y="1" width="1162" height="860" frameX="-266" frameY="-100" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30013" x="1" y="863" width="1127" height="865" frameX="-254" frameY="-91" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30014" x="1" y="863" width="1127" height="865" frameX="-254" frameY="-91" frameWidth="1465" frameHeight="960"/>
+    <SubTexture name="AllenF/Allen30015" x="1" y="863" width="1127" height="865" frameX="-254" frameY="-91" frameWidth="1465" frameHeight="960"/>
+</TextureAtlas>

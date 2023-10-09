@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:6771bdfe36f37bf23d82961f9f098d3b:04e826379460c9ff573264ad17cda0ca:539824c019e3601de14896066dc667cf$ -->
+<TextureAtlas imagePath="Ramses2.png" width="2517" height="3850">
+    <SubTexture name="Ramses2/Down/Ramses30028" x="1" y="3071" width="545" height="778" frameX="-196" frameY="-93" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Down/Ramses30029" x="1" y="3071" width="545" height="778" frameX="-196" frameY="-93" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Down/Ramses30030" x="548" y="3071" width="532" height="778" frameX="-201" frameY="-93" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Down/Ramses30031" x="548" y="3071" width="532" height="778" frameX="-201" frameY="-93" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30001" x="1692" y="1" rotated="true" width="824" height="491" frameX="-211" frameY="-47" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30002" x="1082" y="3307" rotated="true" width="766" height="535" frameX="-200" frameY="-105" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30003" x="1082" y="2558" width="521" height="747" frameX="-205" frameY="-124" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30004" x="1850" y="3045" width="515" height="778" frameX="-206" frameY="-94" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30005" x="1617" y="2531" rotated="true" width="796" height="512" frameX="-207" frameY="-76" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30006" x="1629" y="1507" rotated="true" width="808" height="510" frameX="-207" frameY="-64" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30007" x="1" y="994" rotated="true" width="813" height="510" frameX="-207" frameY="-59" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30008" x="829" y="499" rotated="true" width="814" height="510" frameX="-207" frameY="-58" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30009" x="1645" y="995" rotated="true" width="813" height="510" frameX="-207" frameY="-59" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30010" x="816" y="1011" rotated="true" width="811" height="510" frameX="-207" frameY="-61" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30011" x="1" y="1506" rotated="true" width="810" height="510" frameX="-207" frameY="-62" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30012" x="813" y="1523" rotated="true" width="808" height="510" frameX="-207" frameY="-64" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30013" x="1" y="2018" rotated="true" width="808" height="510" frameX="-207" frameY="-64" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30014" x="1623" y="2019" rotated="true" width="808" height="510" frameX="-207" frameY="-64" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Idle/Ramses30015" x="1623" y="2019" rotated="true" width="808" height="510" frameX="-207" frameY="-64" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Left/Ramses30016" x="1" y="495" rotated="true" width="826" height="497" frameX="-190" frameY="-46" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Left/Ramses30017" x="1" y="495" rotated="true" width="826" height="497" frameX="-190" frameY="-46" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Left/Ramses30018" x="1692" y="494" rotated="true" width="821" height="499" frameX="-195" frameY="-51" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Left/Ramses30019" x="1692" y="494" rotated="true" width="821" height="499" frameX="-195" frameY="-51" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Right/Ramses30020" x="1" y="2530" rotated="true" width="803" height="539" frameX="-197" frameY="-69" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Right/Ramses30021" x="1" y="2530" rotated="true" width="803" height="539" frameX="-197" frameY="-69" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Right/Ramses30022" x="811" y="2035" rotated="true" width="804" height="521" frameX="-210" frameY="-68" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Right/Ramses30023" x="811" y="2035" rotated="true" width="804" height="521" frameX="-210" frameY="-68" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Up/Ramses30024" x="1" y="1" rotated="true" width="848" height="492" frameX="-208" frameY="-25" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Up/Ramses30025" x="1" y="1" rotated="true" width="848" height="492" frameX="-208" frameY="-25" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Up/Ramses30026" x="851" y="1" rotated="true" width="839" height="496" frameX="-207" frameY="-34" frameWidth="1028" frameHeight="982"/>
+    <SubTexture name="Ramses2/Up/Ramses30027" x="851" y="1" rotated="true" width="839" height="496" frameX="-207" frameY="-34" frameWidth="1028" frameHeight="982"/>
+</TextureAtlas>

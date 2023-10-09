@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:84e498b78345a606a982a1bda49234b4:31b0aab965af9a799482d4ba0687dda2:d3da384281287435c00b5e8002d040f2$ -->
+<TextureAtlas imagePath="shadow2.png" width="3460" height="3328">
+    <SubTexture name="TheEndingShadows0001" x="1" y="1" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0002" x="693" y="1" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0003" x="1385" y="1" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0004" x="2077" y="1" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0005" x="2769" y="1" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0006" x="1" y="417" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0007" x="693" y="417" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0008" x="1385" y="417" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0009" x="2077" y="417" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0010" x="2769" y="417" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0011" x="1" y="833" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0012" x="693" y="833" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0013" x="1385" y="833" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0014" x="2077" y="833" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0015" x="2769" y="833" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0016" x="1" y="1249" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0017" x="693" y="1249" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0018" x="1385" y="1249" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0019" x="2077" y="1249" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0020" x="2769" y="1249" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0021" x="1" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0022" x="693" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0023" x="1385" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0024" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0025" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0026" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0027" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0028" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0029" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0030" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0031" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0032" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0033" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0034" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0035" x="2077" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0036" x="2769" y="1665" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0037" x="1" y="2081" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0038" x="693" y="2081" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0039" x="1385" y="2081" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0040" x="2077" y="2081" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0041" x="2769" y="2081" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0042" x="1" y="2497" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0043" x="693" y="2497" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0044" x="1385" y="2497" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0045" x="2077" y="2497" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0046" x="2769" y="2497" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0047" x="1" y="2913" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0048" x="693" y="2913" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0049" x="1385" y="2913" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0050" x="2077" y="2913" width="690" height="414"/>
+    <SubTexture name="TheEndingShadows0051" x="2769" y="2913" width="690" height="414"/>
+</TextureAtlas>

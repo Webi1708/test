@@ -1,0 +1,9 @@
+{
+	"directory": "Elevator",
+	"defaultZoom": 1,
+	"isPixelStage": false,
+
+	"boyfriend": [770, 80],
+	"girlfriend": [40, 130],
+	"opponent": [-100, 0]
+}

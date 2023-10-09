@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:76096ad1f42614dd5906798f2f021c9d:b3e876cb8eb90b2f9e4661c54bd288c1:00a1492b08fcd3c2db84b67ff66ec8c8$ -->
+<TextureAtlas imagePath="RamsesF2.png" width="7316" height="2478">
+    <SubTexture name="RamsesF20001" x="1" y="1" rotated="true" width="1591" height="1130" frameX="-206" frameY="-34" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20002" x="2958" y="1212" width="1405" height="1261" frameX="-62" frameY="-205" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20003" x="4365" y="1215" width="1501" height="1262" frameX="-20" frameY="-179" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20004" x="4365" y="1215" width="1501" height="1262" frameX="-20" frameY="-179" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20005" x="1442" y="1206" width="1514" height="1260" frameX="-13" frameY="-179" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20006" x="2991" y="1" width="1518" height="1209" frameX="-6" frameY="-201" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20007" x="2991" y="1" width="1518" height="1209" frameX="-6" frameY="-201" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20008" x="4511" y="1" width="1502" height="1212" frameX="-14" frameY="-210" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20009" x="4511" y="1" width="1502" height="1212" frameX="-14" frameY="-210" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20010" x="1" y="1133" width="1439" height="1259" frameX="-49" frameY="-193" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20011" x="1" y="1133" width="1439" height="1259" frameX="-49" frameY="-193" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20012" x="6015" y="1" rotated="true" width="1300" height="1349" frameX="-99" frameY="-203" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20013" x="6015" y="1" rotated="true" width="1300" height="1349" frameX="-99" frameY="-203" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20014" x="1594" y="1" rotated="true" width="1395" height="1203" frameX="-173" frameY="-210" frameWidth="1540" frameHeight="1658"/>
+    <SubTexture name="RamsesF20015" x="1594" y="1" rotated="true" width="1395" height="1203" frameX="-173" frameY="-210" frameWidth="1540" frameHeight="1658"/>
+</TextureAtlas>

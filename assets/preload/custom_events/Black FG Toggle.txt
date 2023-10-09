@@ -1,0 +1,4 @@
+Black FG Toggle 
+
+Value 1: Alpha Amount 0 - 1.
+Value 2: Duration of Fade in seconds.

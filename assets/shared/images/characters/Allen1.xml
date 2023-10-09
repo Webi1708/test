@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:9cf9d24771bd7e14158e08234eebc5e7:fc7ff5dc59e94040a501495445164557:1525caa676b16bb31e4233b474ab191f$ -->
+<TextureAtlas imagePath="Allen1.png" width="3812" height="2485">
+    <SubTexture name="AllenG1/Down/Allen10028" x="3230" y="1" width="581" height="794" frameX="-189" frameY="-156" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Down/Allen10029" x="3230" y="1" width="581" height="794" frameX="-189" frameY="-156" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Down/Allen10030" x="3238" y="1610" width="557" height="787" frameX="-203" frameY="-167" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Down/Allen10031" x="3238" y="1610" width="557" height="787" frameX="-203" frameY="-167" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10001" x="2160" y="1637" width="520" height="814" frameX="-218" frameY="-135" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10002" x="1" y="1702" width="537" height="782" frameX="-191" frameY="-166" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10003" x="2682" y="1633" width="554" height="793" frameX="-187" frameY="-155" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10004" x="540" y="1681" width="544" height="803" frameX="-197" frameY="-146" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10005" x="501" y="862" width="537" height="817" frameX="-204" frameY="-139" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10006" x="2124" y="1" width="536" height="814" frameX="-208" frameY="-135" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10007" x="1086" y="1639" width="536" height="816" frameX="-211" frameY="-133" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10008" x="511" y="1" width="536" height="817" frameX="-212" frameY="-132" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10009" x="1040" y="820" width="536" height="817" frameX="-212" frameY="-132" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10010" x="1049" y="1" width="536" height="817" frameX="-211" frameY="-132" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10011" x="1578" y="820" width="535" height="816" frameX="-211" frameY="-133" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10012" x="1624" y="1638" width="534" height="816" frameX="-211" frameY="-133" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10013" x="1587" y="1" width="535" height="816" frameX="-211" frameY="-133" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10014" x="1587" y="1" width="535" height="816" frameX="-211" frameY="-133" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Idle/Allen10015" x="1587" y="1" width="535" height="816" frameX="-211" frameY="-133" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Left/Allen10016" x="2649" y="817" width="516" height="814" frameX="-200" frameY="-135" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Left/Allen10017" x="2649" y="817" width="516" height="814" frameX="-200" frameY="-135" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Left/Allen10018" x="2115" y="819" width="532" height="816" frameX="-182" frameY="-133" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Left/Allen10019" x="2115" y="819" width="532" height="816" frameX="-182" frameY="-133" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Right/Allen10020" x="2662" y="1" width="566" height="813" frameX="-217" frameY="-135" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Right/Allen10021" x="2662" y="1" width="566" height="813" frameX="-217" frameY="-135" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Right/Allen10022" x="3230" y="797" width="572" height="811" frameX="-219" frameY="-137" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Right/Allen10023" x="3230" y="797" width="572" height="811" frameX="-219" frameY="-137" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Up/Allen10024" x="1" y="862" width="498" height="838" frameX="-231" frameY="-113" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Up/Allen10025" x="1" y="862" width="498" height="838" frameX="-231" frameY="-113" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Up/Allen10026" x="1" y="1" width="508" height="859" frameX="-217" frameY="-89" frameWidth="1028" frameHeight="1022"/>
+    <SubTexture name="AllenG1/Up/Allen10027" x="1" y="1" width="508" height="859" frameX="-217" frameY="-89" frameWidth="1028" frameHeight="1022"/>
+</TextureAtlas>
